@@ -36,9 +36,9 @@
             ]
         },
         {
-            "name": "github.com/dutchcoders/transfer.sh-web",
+            "name": "github.com/davidkneipp/transfer.sh-web",
             "branch": "master",
-            "revision": "cdb97c4b64a33dd1eec7e94b2c200cd9b06296a1",
+            "revision": "639d5c2761b576a8c096ba9d5bb83966223bd17f",
             "packages": [
                 "."
             ]

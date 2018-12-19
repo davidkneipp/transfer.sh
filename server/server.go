@@ -49,7 +49,7 @@ import (
 
 	"crypto/tls"
 
-	web "github.com/dutchcoders/transfer.sh-web"
+	web "github.com/davidkneipp/transfer.sh-web"
 	assetfs "github.com/elazarl/go-bindata-assetfs"
 
 	autocert "golang.org/x/crypto/acme/autocert"
